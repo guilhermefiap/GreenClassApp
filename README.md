@@ -1,55 +1,33 @@
-# Template para desenvolvimento e entrega de NAC
+# Nome do projeto: Green Class App
 
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
+**nome dos alunos:**
 
-# Nome do projeto
+Guilherme Tomaz (RM88110)
 
-**nome dos alunos:** 
+Hevylle Daiane Carneiro dos Santos (RM87248)
 
-**Turma:**
+João Batista Souza do Nascimento (RM88298)
 
-**Ano:**
+Leonardo Lima de Souza (RM87233)
+
+Luan de Oliveira Brito Sousa (RM89352)
+
+**Turma:** 2TDSJ
+
+**Ano:** 2
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+O objetivo da solução proposta pelo grupo é o desenvolvimento de um aplicativo a ser utilizada para ajudar os agricultores analfabetos e analfabetos funcionais com uma plataforma que tem como destaque a comunicação por voz e texto. A ideia é oferecer diversos serviços como previsão de clima para que o agricultor possa ter a melhor tomada de decisão na hora de colher ou plantar um  alimento. O agricultor também terá acesso a uma lista de atividades para que ele possa anotar suas tarefas do dia ou dos próximos dias e isso permitirá que diferentemente de uma anotação em um papel,  o aplicativo vai ficar notificando o agricultor durante o dia sobre as tarefas que não foram realizadas ainda, além de tutoriais em formato de vídeo que serão buscados na internet conforme as tarefas registradas para trazer de forma pontual e direta as possíveis dúvidas do agricultor quando for realizar a tarefa. A princípio o foco é diminuir a falta de tecnologia de pequenos agricultores que não possuem nem conhecimento e muito menos experiência para utilizar novas tecnologias em seu agronegócio, oferecendo uma plataforma de gestão agrícola com um grande diferencial; suporte para pessoas analfabetas.
 
-## Diagrama do projeto
+## Fluxo do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
-
-<img src="/imagem.jpg" width="550">
-
+<img src="/imagem.png" width="550">
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
-
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
-
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
-
+Você deverá utilizar a plataforma da IBM Cloud juntamente com o Node-RED e o telegram para executar o programa.
 
 ## Link de vídeo demonstração
 
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
 [Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
-
-
-### Referências 
-
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
