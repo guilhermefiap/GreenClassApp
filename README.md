@@ -30,4 +30,4 @@ Você deverá utilizar a plataforma da IBM Cloud juntamente com o Node-RED e o t
 
 ## Link de vídeo demonstração
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[Link para o video youtube](https://youtu.be/Dd42nAaDjmY)
